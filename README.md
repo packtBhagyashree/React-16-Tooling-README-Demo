@@ -16,6 +16,12 @@ React 16 Tooling covers the most important tools, utilities, and libraries that 
 * Enable type safety in React components with Flowtype
 * Deploy React applications inside a Docker container as part of a larger application stack
 
+## Contributor
+
+Adam Boduch has been involved with large-scale JavaScript development for nearly 10 years. Before moving to the frontend, he worked on several large-scale cloud computing products, using Python and Linux. No stranger to complexity, Adam has practical experience with real-world software systems, and the scaling challenges they pose.
+
+He is the author of several JavaScript books, including React and React Native published by Packt Publishing, and is passionate about innovative user experiences and high performance.
+
 ## Instructions and navigation
 
 Need suggestions..
