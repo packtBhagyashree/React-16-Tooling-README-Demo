@@ -18,9 +18,21 @@ React 16 Tooling covers the most important tools, utilities, and libraries that 
 * Deploy React applications inside a Docker container as part of a larger application stack
 
 ## Instructions and Navigation
-Folder structure 
 
-What you need for this book
+### Folder structure 
+```
+React-16-Tooling/
+├─ Chapter01
+├─ Chapter02
+├─ Chapter03
+├─ ...  
+
+``` 
+### To get the most out of this book
+
+* Chrome/Firefox (any modern version)
+* Code editor
+* Node.js (https://nodejs.org/en/download/)
 
 ## Highlights
 
