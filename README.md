@@ -36,4 +36,15 @@ React-16-Tooling/
 
 ## Highlights
 
+Consists of Gifs
+
+Examples: 
+* https://github.com/nhnent/tui.calendar
+* https://github.com/RelaxedJS/ReLaXed
+
 ## Other books you may enjoy
+* [React 16 Essentials - Second Edition](https://www.packtpub.com/web-development/react-16-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787126046)
+
+* [React Native Cookbook - Second Edition](https://www.packtpub.com/application-development/react-native-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991926)
+
+* [React: Cross-Platform Application Development with React Native](https://www.packtpub.com/web-development/react-cross-platform-application-development-react-native?utm_source=github&utm_medium=repository&utm_campaign=9781789136081)
