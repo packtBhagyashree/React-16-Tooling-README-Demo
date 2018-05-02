@@ -22,12 +22,7 @@ Adam Boduch has been involved with large-scale JavaScript development for nearly
 
 He is the author of several JavaScript books, including React and React Native published by Packt Publishing, and is passionate about innovative user experiences and high performance.
 
-## Instructions and navigation
-
-Need suggestions..
-
-
-### To get the most out of this book
+## Hardware and software requirements
 
 * Chrome/Firefox (any modern version)
 * Code editor
