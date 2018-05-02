@@ -18,12 +18,7 @@ React 16 Tooling covers the most important tools, utilities, and libraries that 
 
 ## Instructions and navigation
 
-### Table of contents
-Chapter 1: Creating a Personalized React Development Ecosystem
-Chapter 2: Efficiently Bootstrapping React Applications with Create React App
-Chapter 3: Development Mode and Mastering Hot Reloading
-Chapter 4: Optimizing Test-Driven React Development
-Chapter 5: Streamlining Development and Refactoring with Type-Safe React Components
+Need suggestions..
 
 
 ### To get the most out of this book
