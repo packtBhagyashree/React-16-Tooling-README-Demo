@@ -1,5 +1,4 @@
 # React 16 Tooling
-[<img src="./9781788835015.png" width="348">](https://www.amazon.com/React-Tooling-development-experience-create-react-app-ebook/dp/B078TKK928)
 
 This is the code repository for [React 16 Tooling](https://www.packtpub.com/web-development/react-16-tooling?utm_source=github&utm_medium=repository&utm_campaign=9781788835015), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
