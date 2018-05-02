@@ -17,7 +17,7 @@ React 16 Tooling covers the most important tools, utilities, and libraries that 
 * Enable type safety in React components with Flowtype
 * Deploy React applications inside a Docker container as part of a larger application stack
 
-## Instructions and Navigation
+## Instructions and navigation
 
 ### Folder structure 
 ```
@@ -42,7 +42,7 @@ Examples:
 * https://github.com/nhnent/tui.calendar
 * https://github.com/RelaxedJS/ReLaXed
 
-## Other books you may enjoy
+## Related products
 * [React 16 Essentials - Second Edition](https://www.packtpub.com/web-development/react-16-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787126046)
 
 * [React Native Cookbook - Second Edition](https://www.packtpub.com/application-development/react-native-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991926)
