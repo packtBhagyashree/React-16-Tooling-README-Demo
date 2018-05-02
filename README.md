@@ -1,9 +1,5 @@
 # React 16 Tooling
-[![Build Status](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition.svg?token=zvSsJVLJFKzB2yqaeKN1&branch=master)](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition)
-![Node.js 10.0](https://img.shields.io/badge/Python-3.6-blue.svg)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
-
-> Master essential cutting-edge tools, such as create-react-app, Jest, and Flow
+[<img src="./9781788835015.png" width="348">](https://www.amazon.com/React-Tooling-development-experience-create-react-app-ebook/dp/B078TKK928)
 
 This is the code repository for [React 16 Tooling](https://www.packtpub.com/web-development/react-16-tooling?utm_source=github&utm_medium=repository&utm_campaign=9781788835015), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
